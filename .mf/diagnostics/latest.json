@@ -1,10 +1,10 @@
 {
   "latestErrorEvent": {
     "code": "TYPE-001",
-    "message": "Failed to generate type declaration. Execute the below cmd to reproduce and fix the error. #TYPE-001\nargs: {\"cmd\":\"/Users/apple/.nvm/versions/node/v26.1.0/bin/node /Users/apple/workspace/react/mfe/c24-ui-loans-for-car/node_modules/typescript/bin/tsc --project /Users/apple/workspace/react/mfe/c24-ui-loans-for-car/node_modules/.federation/tsconfig.b95749a8e4b4e3f4159e6d68cf762998.json\"}\nView the docs to see how to solve: https://module-federation.io/guide/troubleshooting/type#type-001",
+    "message": "Failed to generate type declaration. Execute the below cmd to reproduce and fix the error. #TYPE-001\nargs: {\"cmd\":\"/Users/apple/.nvm/versions/node/v26.1.0/bin/node /Users/apple/workspace/react/mfe/c24-ui-loans-for-car/node_modules/typescript/bin/tsc --project /Users/apple/workspace/react/mfe/c24-ui-loans-for-car/node_modules/.federation/tsconfig.a249741a652a0c2d4be8a2126a230b0c.json\"}\nView the docs to see how to solve: https://module-federation.io/guide/troubleshooting/type#type-001",
     "args": {
-      "cmd": "/Users/apple/.nvm/versions/node/v26.1.0/bin/node /Users/apple/workspace/react/mfe/c24-ui-loans-for-car/node_modules/typescript/bin/tsc --project /Users/apple/workspace/react/mfe/c24-ui-loans-for-car/node_modules/.federation/tsconfig.b95749a8e4b4e3f4159e6d68cf762998.json"
+      "cmd": "/Users/apple/.nvm/versions/node/v26.1.0/bin/node /Users/apple/workspace/react/mfe/c24-ui-loans-for-car/node_modules/typescript/bin/tsc --project /Users/apple/workspace/react/mfe/c24-ui-loans-for-car/node_modules/.federation/tsconfig.a249741a652a0c2d4be8a2126a230b0c.json"
     },
-    "timestamp": 1786604003163
+    "timestamp": 1786604383872
   }
 }
